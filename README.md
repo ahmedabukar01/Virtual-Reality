@@ -1,2 +1,2 @@
 # Virtual-Reality
-Modern HTML &amp; CSS For Beginners (Course Project)
+Modern HTML &amp; CSS For Beginners (Course Projects)
